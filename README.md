@@ -1,2 +1,2 @@
-# mdc
+# MDC
 Mestre dos códigos .Net
